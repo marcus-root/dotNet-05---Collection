@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections - 01 - Stacks - Kommando tac & Klammersetzung", "Collections - 01 - Stacks - Kommando tac & Klammersetzung\Collections - 01 - Stacks - Kommando tac & Klammersetzung.csproj", "{021D0DEF-0EEA-4DAF-943B-4D28CCD2D441}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections - 02 - Dictionary - Worthäufigkeit", "Collections - 02 - Dictionary - Worthäufigkeit\Collections - 02 - Dictionary - Worthäufigkeit.csproj", "{5E781918-1FED-4824-A1BC-0702D05B45DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{021D0DEF-0EEA-4DAF-943B-4D28CCD2D441}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021D0DEF-0EEA-4DAF-943B-4D28CCD2D441}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021D0DEF-0EEA-4DAF-943B-4D28CCD2D441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E781918-1FED-4824-A1BC-0702D05B45DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E781918-1FED-4824-A1BC-0702D05B45DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E781918-1FED-4824-A1BC-0702D05B45DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E781918-1FED-4824-A1BC-0702D05B45DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
